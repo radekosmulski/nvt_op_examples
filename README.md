@@ -2,7 +2,7 @@
 
 This repository will contain examples of using [nvtabular](https://github.com/NVIDIA-Merlin/NVTabular) ops to do cool things with your data.
 
-*Ops with examples right now:*
+### Ops with examples right now:
 1. [Categorify](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/01_Categorify.ipynb)
 
 nvtabular to me is the toolset of the future. It
