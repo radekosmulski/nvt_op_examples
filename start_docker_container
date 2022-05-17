@@ -1,2 +1,2 @@
 #!/bin/bash
-docker run -it --gpus all --ipc=host -p 8888:8888 --mount src=`pwd`/nbs,target=/workspace,type=bind --ulimit memlock=-1 --ulimit stack=67108864 -w /workspace nvcr.io/nvidia/merlin/merlin-pytorch-training:22.04 jupyter notebook --allow-root --no-browser --NotebookApp.token=''
+docker run -it --gpus all --ipc=host -p 8888:8888 --mount src=`pwd`/examples,target=/workspace,type=bind --ulimit memlock=-1 --ulimit stack=67108864 -w /workspace nvcr.io/nvidia/merlin/merlin-pytorch-training:22.04 jupyter notebook --allow-root --no-browser --NotebookApp.token=''
