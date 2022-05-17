@@ -30,6 +30,6 @@ Below are instructions to get started.
 2. You might want to be able to use docker [as a non-root user](https://docs.docker.com/engine/install/linux-postinstall/). Do note: this comes with security risks.
 3. The [docker tutorial](https://docs.docker.com/get-started/) is exquisite. It only tells you a part of the story thought, but the part it tells you it tells really well.
 4. Here are the missing pieces
-  * You can [create an image from a running container](https://twitter.com/radekosmulski/status/1524915499506839553?s=20&t=oh9b4X-2xFYLxDL39V10aA).
-  * You can [start a stopped container](https://twitter.com/radekosmulski/status/1524938153567858688?s=20&t=oh9b4X-2xFYLxDL39V10aA).
+    * You can [create an image from a running container](https://twitter.com/radekosmulski/status/1524915499506839553?s=20&t=oh9b4X-2xFYLxDL39V10aA).
+    * You can [start a stopped container](https://twitter.com/radekosmulski/status/1524938153567858688?s=20&t=oh9b4X-2xFYLxDL39V10aA).
 5. Equipped with all this information, the only other missing piece of the puzzle is the command to start a docker container. The `start_docker_container` in this repository contains the most commonly required crucial bits.
