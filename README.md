@@ -16,7 +16,7 @@ This repository will document my journey as I learn nvtabular.
 
 1. Have docker installed (see "Getting started with docker below")
 2. From the root of the repository, run `./start_docker_container`.
-3. Navigate to localhost:8888 in your browser.
+3. Navigate to `http://localhost:8888` in your browser.
 
 ## Getting started with docker
 
