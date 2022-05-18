@@ -33,3 +33,8 @@ Below are instructions to get started.
     * You can [create an image from a running container](https://twitter.com/radekosmulski/status/1524915499506839553?s=20&t=oh9b4X-2xFYLxDL39V10aA).
     * You can [start a stopped container](https://twitter.com/radekosmulski/status/1524938153567858688?s=20&t=oh9b4X-2xFYLxDL39V10aA).
 5. Equipped with all this information, the only other missing piece of the puzzle is the command to start a docker container. The `start_docker_container` in this repository contains the most commonly required crucial bits.
+
+## Misc
+
+* [Understanding `>>` in Python](https://twitter.com/radekosmulski/status/1514619524657549312?s=20&t=TWs1pW7H-aZleHcjel_znA)
+* [A closer look at `>>`](https://twitter.com/radekosmulski/status/1523517199448608769?s=20&t=TWs1pW7H-aZleHcjel_znA)
