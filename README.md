@@ -26,7 +26,7 @@ If you follow along with the work in this repository, you will get up to speed w
 
 Below are instructions to get started.
 
-1. [Install docker](https://docs.docker.com/get-docker/). (I use docker on ubuntu server and windows subsystem for linux, native GPU support is really nice!)
+1. [Install docker](https://docs.docker.com/get-docker/). (I use [docker on ubuntu server](https://docs.docker.com/engine/install/ubuntu/) and windows subsystem for linux, native GPU support is really nice!)
 2. You might want to be able to use docker [as a non-root user](https://docs.docker.com/engine/install/linux-postinstall/). Do note: this comes with security risks.
 3. The [docker tutorial](https://docs.docker.com/get-started/) is exquisite. It only tells you a part of the story thought, but the part it tells you it tells really well.
 4. Here are the missing pieces
