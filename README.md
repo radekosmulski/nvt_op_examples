@@ -27,12 +27,13 @@ If you follow along with the work in this repository, you will get up to speed w
 Below are instructions to get started.
 
 1. [Install docker](https://docs.docker.com/get-docker/). (I use [docker on ubuntu server](https://docs.docker.com/engine/install/ubuntu/) and windows subsystem for linux, native GPU support is really nice!)
-2. You might want to be able to use docker [as a non-root user](https://docs.docker.com/engine/install/linux-postinstall/). Do note: this comes with security risks.
-3. The [docker tutorial](https://docs.docker.com/get-started/) is exquisite. It only tells you a part of the story thought, but the part it tells you it tells really well.
-4. Here are the missing pieces
+    * you will have to [install nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-docker/issues/1243#issuecomment-615170541), depending on your OS you might have to go [to the source](https://github.com/NVIDIA/nvidia-docker/issues/1243#issuecomment-615170541)
+3. You might want to be able to use docker [as a non-root user](https://docs.docker.com/engine/install/linux-postinstall/). Do note: this comes with security risks.
+4. The [docker tutorial](https://docs.docker.com/get-started/) is exquisite. It only tells you a part of the story thought, but the part it tells you it tells really well.
+5. Here are the missing pieces
     * You can [create an image from a running container](https://twitter.com/radekosmulski/status/1524915499506839553?s=20&t=oh9b4X-2xFYLxDL39V10aA).
     * You can [start a stopped container](https://twitter.com/radekosmulski/status/1524938153567858688?s=20&t=oh9b4X-2xFYLxDL39V10aA).
-5. Equipped with all this information, the only other missing piece of the puzzle is the command to start a docker container. The `start_docker_container` in this repository contains the most commonly required crucial bits.
+6. Equipped with all this information, the only other missing piece of the puzzle is the command to start a docker container. The `start_docker_container` in this repository contains the most commonly required crucial bits.
 
 ## Misc
 
