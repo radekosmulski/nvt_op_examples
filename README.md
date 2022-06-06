@@ -6,6 +6,8 @@ This repository will contain examples of using [nvtabular](https://github.com/NV
 1. [Categorify](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/01_Categorify.ipynb)
 2. [JoinExternal](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/02_Join_External.ipynb)
 3. [HashBucket](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/03_Hash_Bucket.ipynb)
+4. [Clip](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/04_Clip.ipynb)
+5. [LogOp](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/05_LogOp.ipynb)
 
 nvtabular to me is the toolset of the future. It
 * abstracts away your hardware (you can process your data on equipment with varying amount of CPU and GPU RAM, you can read your data from various sources)
