@@ -3,9 +3,9 @@
 This repository will contain examples of using [nvtabular](https://github.com/NVIDIA-Merlin/NVTabular) ops to do cool things with your data.
 
 ### Ops with examples right now:
-1. [Categorify](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/01_Categorify.ipynb)
-2. [JoinExternal](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/02_Join_External.ipynb)
-3. [HashBucket](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/03_Hash_Bucket.ipynb)
+1. [Categorify](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/01_Categorify.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1526578320107720705?s=20&t=7BOvRyP-pqvYbyIOO8Z80w))
+2. [JoinExternal](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/02_Join_External.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1529115015558537218?s=20&t=7BOvRyP-pqvYbyIOO8Z80w))
+3. [HashBucket](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/03_Hash_Bucket.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1531523922713116673?s=20&t=7BOvRyP-pqvYbyIOO8Z80w))
 4. [Clip](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/04_Clip.ipynb)
 5. [LogOp](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/05_LogOp.ipynb)
 
