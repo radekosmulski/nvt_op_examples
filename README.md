@@ -6,8 +6,9 @@ This repository will contain examples of using [nvtabular](https://github.com/NV
 1. [Categorify](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/01_Categorify.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1526578320107720705?s=20&t=7BOvRyP-pqvYbyIOO8Z80w))
 2. [JoinExternal](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/02_Join_External.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1529115015558537218?s=20&t=7BOvRyP-pqvYbyIOO8Z80w))
 3. [HashBucket](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/03_Hash_Bucket.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1531523922713116673?s=20&t=7BOvRyP-pqvYbyIOO8Z80w))
-4. [Clip](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/04_Clip.ipynb)
-5. [LogOp](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/05_LogOp.ipynb)
+4. [Clip](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/04_Clip.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1534007245368766464?s=20&t=i3s4pww8LhiFA7L3Xpa_PQ))
+5. [LogOp](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/05_LogOp.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1534007245368766464?s=20&t=i3s4pww8LhiFA7L3Xpa_PQ))
+6. [TargetEncoding](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/06_Target_Encoding.ipynb)
 
 nvtabular to me is the toolset of the future. It
 * abstracts away your hardware (you can process your data on equipment with varying amount of CPU and GPU RAM, you can read your data from various sources)
