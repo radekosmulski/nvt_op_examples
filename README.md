@@ -1,6 +1,6 @@
 # NVT OP examples
 
-This repository will contain examples of using [nvtabular](https://github.com/NVIDIA-Merlin/NVTabular) ops to do cool things with your data.
+This repository will contain examples of using [nvtabular](https://github.com/NVIDIA-Merlin/NVTabular) ops to apply preprocessing to your data.
 
 ### Ops with examples right now:
 1. [Categorify](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/01_Categorify.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1526578320107720705?s=20&t=7BOvRyP-pqvYbyIOO8Z80w))
