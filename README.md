@@ -9,7 +9,8 @@ This repository will contain examples of using [nvtabular](https://github.com/NV
 4. [Clip](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/04_Clip.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1534007245368766464?s=20&t=i3s4pww8LhiFA7L3Xpa_PQ))
 5. [LogOp](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/05_LogOp.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1534007245368766464?s=20&t=i3s4pww8LhiFA7L3Xpa_PQ))
 6. [TargetEncoding](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/06_Target_Encoding.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1536725232823640065?s=20&t=1yiU0_5atln40fD6Z8r9FQ))
-7. [Filter](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/07_Filter.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1536725232823640065?s=20&t=1yiU0_5atln40fD6Z8r9FQ))
+7. [Filter](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/07_Filter.ipynb)
+8. [ReduceDtypeSize](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/08_ReduceDtypeSize.ipynb)
 
 nvtabular to me is the toolset of the future. It
 * abstracts away your hardware (you can process your data on equipment with varying amount of CPU and GPU RAM, you can read your data from various sources)
