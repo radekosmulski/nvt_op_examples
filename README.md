@@ -11,7 +11,8 @@ This repository will contain examples of using [nvtabular](https://github.com/NV
 6. [TargetEncoding](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/06_Target_Encoding.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1536725232823640065?s=20&t=1yiU0_5atln40fD6Z8r9FQ))
 7. [Filter](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/07_Filter.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1539080678242803712?s=20&t=C98Rtx212F2G6ZS85YTXHA))
 8. [ReduceDtypeSize](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/08_ReduceDtypeSize.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1541617397810876416?s=20&t=C98Rtx212F2G6ZS85YTXHA))
-9. [AddMetadata](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/09_Add_Metadata.ipynb)
+9. [AddMetadata](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/09_Add_Metadata.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1544308474661650432?s=20&t=DFCFJq9zzHCvf0LiBgUihQ))
+10. [Bucketize](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/10_Bucketize.ipynb)
 
 nvtabular to me is the toolset of the future. It
 * abstracts away your hardware (you can process your data on equipment with varying amount of CPU and GPU RAM, you can read your data from various sources)
