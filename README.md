@@ -13,6 +13,7 @@ This repository will contain examples of using [nvtabular](https://github.com/NV
 8. [ReduceDtypeSize](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/08_ReduceDtypeSize.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1541617397810876416?s=20&t=C98Rtx212F2G6ZS85YTXHA))
 9. [AddMetadata](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/09_Add_Metadata.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1544308474661650432?s=20&t=DFCFJq9zzHCvf0LiBgUihQ))
 10. [Bucketize](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/10_Bucketize.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1546988049556721664?s=20&t=HmoUR9Tvab8JI9QMrVw-gg))
+11. [DifferenceLag](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/11_Difference_Lag.ipynb)
 
 nvtabular to me is the toolset of the future. It
 * abstracts away your hardware (you can process your data on equipment with varying amount of CPU and GPU RAM, you can read your data from various sources)
