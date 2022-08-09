@@ -14,9 +14,10 @@ This repository will contain examples of using [nvtabular](https://github.com/NV
 9. [AddMetadata](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/09_Add_Metadata.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1544308474661650432?s=20&t=DFCFJq9zzHCvf0LiBgUihQ))
 10. [Bucketize](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/10_Bucketize.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1546988049556721664?s=20&t=HmoUR9Tvab8JI9QMrVw-gg))
 11. [DifferenceLag](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/11_Difference_Lag.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1549408766231060481?s=20&t=nYuzwpAp3W2WFWteED4TiA))
-11. [FillMissing](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/12_Fill_Missing.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1551925645260857345))
-11. [FillMedian](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/13_Fill_Median.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1551925653192249345?s=20&t=hvHzN5tl35SjHJb59c9Eig))
-12. [HashedCross](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/14_Hashed_Cross.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1554438012183793665))
+12. [FillMissing](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/12_Fill_Missing.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1551925645260857345))
+13. [FillMedian](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/13_Fill_Median.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1551925653192249345?s=20&t=hvHzN5tl35SjHJb59c9Eig))
+14. [HashedCross](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/14_Hashed_Cross.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1554438012183793665))
+15. [Rename](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/15_Rename.ipynb)
 
 nvtabular to me is the toolset of the future. It
 * abstracts away your hardware (you can process your data on equipment with varying amount of CPU and GPU RAM, you can read your data from various sources)
