@@ -17,7 +17,7 @@ This repository will contain examples of using [nvtabular](https://github.com/NV
 12. [FillMissing](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/12_Fill_Missing.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1551925645260857345))
 13. [FillMedian](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/13_Fill_Median.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1551925653192249345?s=20&t=hvHzN5tl35SjHJb59c9Eig))
 14. [HashedCross](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/14_Hashed_Cross.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1554438012183793665))
-15. [Rename](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/15_Rename.ipynb)
+15. [Rename](https://github.com/radekosmulski/nvt_op_examples/blob/main/examples/15_Rename.ipynb) ([twitter thread](https://twitter.com/radekosmulski/status/1556906452316344320))
 
 nvtabular to me is the toolset of the future. It
 * abstracts away your hardware (you can process your data on equipment with varying amount of CPU and GPU RAM, you can read your data from various sources)
